@@ -14,12 +14,12 @@ import { AuthenticationContextProvider } from "./src/services/authentication/aut
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDW79f09tgsGe3G7y5asRS5KD-Zhoszq8M",
-  authDomain: "mealstogorn-de5f3.firebaseapp.com",
-  projectId: "mealstogorn-de5f3",
-  storageBucket: "mealstogorn-de5f3.appspot.com",
-  messagingSenderId: "572682769419",
-  appId: "1:572682769419:web:bfa9203dacc8994099230e"
+  apiKey: "your-data",
+  authDomain: "your-data",
+  projectId: "your-data",
+  storageBucket: "your-data",
+  messagingSenderId: "your-data",
+  appId: "your-data"
 };
 
 const app = initializeApp(firebaseConfig);
